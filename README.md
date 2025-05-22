@@ -1,5 +1,6 @@
 as vezes eu
 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%2300007c.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23135084?style=for-the-badge&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf.svg?style=for-the-badge&logo=godotengine&logoColor=white)
